@@ -6,3 +6,5 @@
 **2010-2016** *Francisk Scorina Gomel State University (Economist)*    
 **2020-2022** *Institute for Advanced Studies and Retraining (Software engineer)*     
 **From 2023** *RS-SCHOOL*    
+### Languages
+*English A2*
